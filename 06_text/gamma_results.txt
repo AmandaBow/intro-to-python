@@ -1,0 +1,5 @@
+Lorents Factor Calculations
+============================
+GPS satellite (v = 3889 m/s): γ = 1.000000000084211
+ISS (v = 7660 m/s): γ = 1.000000000326234
+LHC particle (v = 2.998e8 × 0.99999999): γ = 7071.07
